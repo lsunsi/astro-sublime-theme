@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>DuoTone Astro</string>
 	<key>semanticClass</key>
-	<string>theme.dark.duo_tone_astro</string>
+	<string>theme.dark.base2_tone_evening_dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -35,15 +35,15 @@
 				<key>background</key>
 				<string>#32383C</string>
 				<key>caret</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 				<key>foreground</key>
 				<string>#597183</string>
 				<key>invisibles</key>
-				<string>#32383C</string>
+				<string>#3F4C55</string>
 				<key>lineHighlight</key>
-				<string>#32383C</string>
+				<string>#3F4C55</string>
 				<key>selection</key>
-				<string>#32383C</string>
+				<string>#3F4C55</string>
 				<key>findHighlight</key>
 				<string>#B8FCAC</string>
 				<key>findHighlightForeground</key>
@@ -55,7 +55,7 @@
 				<key>bracketContentsForeground</key>
 				<string>#32383C</string>
 				<key>guide</key>
-				<string>#32383C</string>
+				<string>#3F4C55</string>
 				<key>activeGuide</key>
 				<string>#597183</string>
 				<key>stackGuide</key>
@@ -92,7 +92,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#597183</string>
+				<string>#8296A4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -125,7 +125,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,7 +191,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B8FCAC</string>
+				<string>#9CF184</string>
 			</dict>
 		</dict>
 		<dict>
@@ -246,7 +246,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -257,7 +257,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -268,7 +268,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -301,7 +301,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B8FCAC</string>
+				<string>#9CF184</string>
 			</dict>
 		</dict>
 		<dict>
@@ -323,7 +323,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -347,7 +347,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -360,7 +360,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#9CF184</string>
+				<string>#88E967</string>
 			</dict>
 		</dict>
 		<dict>
@@ -384,7 +384,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#597183</string>
+				<string>#8296A4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -395,7 +395,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AB4B9A</string>
+				<string>#993C85</string>
 			</dict>
 		</dict>
 		<dict>
@@ -406,7 +406,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -417,7 +417,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AB4B9A</string>
+				<string>#993C85</string>
 			</dict>
 		</dict>
 		<dict>
@@ -428,7 +428,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -452,7 +452,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#597183</string>
+				<string>#8296A4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -463,7 +463,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AB4B9A</string>
+				<string>#993C85</string>
 			</dict>
 		</dict>
 		<dict>
@@ -518,7 +518,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C763BA</string>
+				<string>#AB4B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -529,7 +529,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#AB4B9A</string>
+				<string>#993C85</string>
 				<key>foreground</key>
 				<string>#E9EEF2</string>
 			</dict>
@@ -542,7 +542,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 				<key>foreground</key>
 				<string>#32383C</string>
 			</dict>
@@ -555,7 +555,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#C763BA</string>
+				<string>#AB4B9A</string>
 				<key>foreground</key>
 				<string>#E9EEF2</string>
 			</dict>
@@ -583,13 +583,13 @@
 				<key>foreground</key>
 				<string>#32383C</string>
 				<key>background</key>
-				<string>#88E967</string>
+				<string>#74E24A</string>
 			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
 	<string>79c2d069-ec9d-4af7-9440-91f644cc1bee</string>
 	<key>comment</key>
-	<string>Adaptation of Simurai&apos;s DuoTone dark syntax theme.</string>
+	<string>Adapted from Simurai&apos;s DuoTone Dark syntax theme.</string>
 </dict>
 </plist>
